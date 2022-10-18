@@ -1,5 +1,5 @@
 ### Olá, seja muito bem vindo(a) ao meu perfil! Chamo-me Flávio Barbosa Neto. 👋
-Tenho vinte anos, sou nascido em Itabaiana - SE e criado em Aracaju - SE.
+Tenho vinte e um anos, sou nascido em Itabaiana - SE e criado em Aracaju - SE.
 Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente pós-graduando em Engenharia de Software.
 Trabalho como desenvolvedor a cerca de dois anos, com a linguaguem base C# utilizando .NET Core e .Net Framework focado em API's, bancos de dados (SQL Server, Oracle DataBase), HTML, CSS, JS.
 
